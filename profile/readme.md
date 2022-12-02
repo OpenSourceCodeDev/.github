@@ -25,5 +25,42 @@
 </p> 
 
  
- ## Official Account
+## Official Account
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/OpenSourceCodeDart) [![Javascript](https://img.shields.io/badge/Javascript-CB3837?style=for-the-badge&logo=javascript&logoColor=yellow) ](https://github.com/OpenSourceCodeJavascript) [![Python](https://img.shields.io/badge/Python-CB3837?style=for-the-badge&logo=python&logoColor=yellow) ](https://github.com/OpenSourceCodePython) [![Zig](https://img.shields.io/badge/Zig-CB3837?style=for-the-badge&logo=zig&logoColor=black) ](https://github.com/OpenSourceCodeZig) 
+
+
+<h3 align="center">
+  Founder Azkadev
+</h3>
+<p align="center">
+    <a href="https://github.com/azkadev">
+        <img
+          src="https://telegra.ph/file/e90bdeab8390b8c0d9df2.png"
+          alt="Specta"
+          width="312"
+          height="312"
+        >
+    </a> 
+</p>
+
+<h3 align="center">
+  Sponsors
+</h3>
+<p align="center">
+    <a href="https://github.com/galaxeus">
+        <img
+            src="https://raw.githubusercontent.com/azkadev/azkadev/main/assets/images/powered_galaxeus.png"
+            alt="galaxeus"
+            width="350"
+            height="80"
+        >
+    </a>
+    <a href="https://github.com/galaxeus">
+        <img
+            src="https://raw.githubusercontent.com/azkadev/azkadev/main/assets/images/powered_galaxeus.png"
+            alt="galaxeus"
+            width="350"
+            height="80"
+        >
+    </a> 
+</p>
