@@ -50,10 +50,34 @@
 <p align="center">
     <a href="https://github.com/galaxeus">
         <img
-            src="https://raw.githubusercontent.com/azkadev/azkadev/main/assets/images/powered_galaxeus.png"
+            src="https://raw.githubusercontent.com/galaxeus/.github/main/assets/galaxeus.png"
             alt="galaxeus"
-            width="100"
-            height="20"
+            width="200"
+            height="50"
+        >
+    </a>
+    <a href="https://github.com/hexaminate">
+        <img
+            src="https://raw.githubusercontent.com/galaxeus/.github/main/assets/hexaminate.png"
+            alt="hexaminate"
+            width="200"
+            height="50"
+        >
+    </a>
+    <a href="https://github.com/envivore">
+        <img
+            src="https://raw.githubusercontent.com/galaxeus/.github/main/assets/envivore.png"
+            alt="envivore"
+            width="200"
+            height="50"
+        >
+    </a> 
+    <a href="https://github.com/coinlox">
+        <img
+            src="https://raw.githubusercontent.com/galaxeus/.github/main/assets/coinlox.png"
+            alt="coinlox"
+            width="200"
+            height="50"
         >
     </a> 
 </p>
